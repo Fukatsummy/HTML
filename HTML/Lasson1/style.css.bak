@@ -1,0 +1,19 @@
+/* ко всем элементам*/
+*{
+	color:green;
+}
+p {/*ко всем тегам р*/
+	color:blue;
+}
+div p {/*ко всем тегам р с элементами div*/
+	color:yellow;
+}
+#red {
+	color:red;
+}
+.violet {
+	color:violet;/*можно В rgb  ФОРМАТЕ*/
+}
+.bigfont {
+	fond-size:40px;
+}
